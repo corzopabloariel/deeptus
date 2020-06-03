@@ -7,7 +7,7 @@
         <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;1,400&display=swap" rel="stylesheet">
         <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
         <link rel="stylesheet" href="https://cdn.rawgit.com/konpa/devicon/df6431e323547add1b4cf45992913f15286456d3/devicon.min.css">
-        <link rel="stylesheet" href="{{ asset('css/style.css') }}">
+        <link rel="stylesheet" href="assets/css/style.css">
         <script src="https://kit.fontawesome.com/773d0bcede.js"></script>
     </head>
     <body>
@@ -16,7 +16,7 @@
                 <div class="container">
                     <div class="d-flex justify-content-between">
                         <svg class="header__logo" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" focusable="false" role="img">
-                            <image x="0" y="0" width="100%" xlink:href="images/logo.jpeg" />
+                            <image x="0" y="0" width="100%" xlink:href="assets/images/logo.jpeg" />
                         </svg>
                         <ul class="list-group list-group-horizontal align-items-center header__list mb-0 pb-0">
                             <li class="list-group-item shadow">Nosotros</li>
@@ -55,7 +55,7 @@
                             </div>
                         </div>
                         <div class="col-12 col-md">
-                            <img src="{{ asset('images/web-profesionales.png') }}" alt="" srcset="" class="element--image">
+                            <img src="asset/images/web-profesionales.png" alt="" srcset="" class="element--image">
                         </div>
                     </div>
                 </div>
@@ -74,7 +74,7 @@
                             </div>
                         </div>
                         <div class="col-12 col-md">
-                            <img src="{{ asset('images/desarrollo-web.png') }}" alt="" srcset="" class="element--image">
+                            <img src="asset/images/desarrollo-web.png" alt="" srcset="" class="element--image">
                         </div>
                     </div>
                 </div>
@@ -93,7 +93,7 @@
                             </div>
                         </div>
                         <div class="col-12 col-md">
-                            <img src="{{ asset('images/tiendas-online.png') }}" alt="" srcset="" class="element--image">
+                            <img src="asset/images/tiendas-online.png" alt="" srcset="" class="element--image">
                         </div>
                     </div>
                 </div>
