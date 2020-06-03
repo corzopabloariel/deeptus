@@ -97,6 +97,14 @@ foreach($filename AS $k => $v) {
                     </div>
                 </div>
             </div>
+            <div class="footer--details">
+                <div class="container">
+                    <p class="text">Estamos comprometidos con la investigación de nuevos desarrollos tecnológicos para ofrecer las mejores soluciones que se adapten a nuestros clientes, además contamos con un completo portafolio de productos y servicios orientado a pequeñas, medianas y grandes empresas.</p>
+                </div>
+            </div>
+            <div class="footer--derechos">
+                <div class="container">© 2020 Todos los derechos reservados. DEEPTUS</div>
+            </div>
         </footer>
 
         <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>

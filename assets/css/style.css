@@ -192,7 +192,7 @@
 .footer {
     border-top: 3px solid var(--max-dark);
     background-color: var(--light);
-    padding: 4.35rem 0;
+    padding-top: 4.35rem;
     font-size: 22px;
 }
 .footer--title {
@@ -203,6 +203,21 @@
 .footer--info {
     margin-bottom: 0;
     color: #f8f8f8;
+}
+.footer--details {
+    margin-top: 4.35rem;
+    padding: 3.35rem 0;
+    font-size: 15px;
+    letter-spacing: 1px;
+    color: #ffffff;
+    background-color: #191919;
+}
+.footer--derechos {
+    background-color: #111;
+    color: #777777;
+    font-size: 12px;
+    padding: .6rem 0;
+    letter-spacing: 1px;
 }
 /**/
 .form--label {
