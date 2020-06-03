@@ -1,0 +1,57 @@
+<section class="section section__element">
+            <div class="container">
+                <h3 class="text-center element__title element--title"><span class="linea linea--150">Diseño de páginas web</span></h3>
+                <div class="element">
+                    <div class="row">
+                        <div class="col-12 col-md-7 d-flex align-items-center">
+                            <div class="w-100">
+                                <h4 class="element--title"><span class="linea linea--50 linea--title">Creación de páginas web profesionales y responsive</span></h4>
+                                <h5 class="element--subtitle">Empresa para crear página web</h5>
+                                <p class="text">Diseño de páginas web para empresas. Creación de páginas web profesionales. Hacemos diseño web y aplicaciones móviles. Presupuesto de diseño web al mejor precio.</p>
+                            </div>
+                        </div>
+                        <div class="col-12 col-md">
+                            <img src="assets/images/web-profesionales.png" alt="" srcset="" class="element--image">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section class="section section__element">
+            <div class="container">
+                <h3 class="text-center element__title element--title"><span class="linea linea--150">Empresa de desarrollo web</span></h3>
+                <div class="element">
+                    <div class="row">
+                        <div class="col-12 col-md-7 d-flex align-items-center">
+                            <div class="w-100">
+                                <h4 class="element--title"><span class="linea linea--50 linea--title">Desarrollo de plataformas web</span></h4>
+                                <h5 class="element--subtitle">Creamos plataformas a medida para empresas</h5>
+                                <p class="text">Hacemos plataformas. Desarrollo de sistemas intranet, plataformas de comercio electrónico, project manager, gestión de recursos humanos, marketplace, ERP, CRM, sistemas online.</p>
+                            </div>
+                        </div>
+                        <div class="col-12 col-md">
+                            <img src="assets/images/desarrollo-web.png" alt="" srcset="" class="element--image">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section class="section section__element">
+            <div class="container">
+                <h3 class="text-center element__title element--title"><span class="linea linea--150">Creación de Tiendas Online</span></h3>
+                <div class="element">
+                    <div class="row">
+                        <div class="col-12 col-md-7 d-flex align-items-center">
+                            <div class="w-100">
+                                <h4 class="element--title"><span class="linea linea--50 linea--title">Hacemos páginas web con sistemas eCommerce</span></h4>
+                                <h5 class="element--subtitle">Desarrollamos sistemas de ventas online para tiendas</h5>
+                                <p class="text">Expertos en desarrollo de sistemas de comercio electrónico. Agencia especializada en creación de sistemas eCommerce.</p>
+                            </div>
+                        </div>
+                        <div class="col-12 col-md">
+                            <img src="assets/images/tiendas-online.png" alt="" srcset="" class="element--image">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
