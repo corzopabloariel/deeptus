@@ -55,7 +55,7 @@
                             </div>
                         </div>
                         <div class="col-12 col-md">
-                            <img src="asset/images/web-profesionales.png" alt="" srcset="" class="element--image">
+                            <img src="assets/images/web-profesionales.png" alt="" srcset="" class="element--image">
                         </div>
                     </div>
                 </div>
@@ -74,7 +74,7 @@
                             </div>
                         </div>
                         <div class="col-12 col-md">
-                            <img src="asset/images/desarrollo-web.png" alt="" srcset="" class="element--image">
+                            <img src="assets/images/desarrollo-web.png" alt="" srcset="" class="element--image">
                         </div>
                     </div>
                 </div>
@@ -93,7 +93,7 @@
                             </div>
                         </div>
                         <div class="col-12 col-md">
-                            <img src="asset/images/tiendas-online.png" alt="" srcset="" class="element--image">
+                            <img src="assets/images/tiendas-online.png" alt="" srcset="" class="element--image">
                         </div>
                     </div>
                 </div>
